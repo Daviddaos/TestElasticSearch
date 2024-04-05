@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Kbp2VRmHliW1v3rG7LA6zSNaJn1G4nU00FK4aSj3ZOs=",
+  "Source": "TestElasticSearch",
+  "BasePath": "_content/TestElasticSearch",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
