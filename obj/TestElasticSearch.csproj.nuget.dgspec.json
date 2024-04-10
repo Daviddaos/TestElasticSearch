@@ -71,6 +71,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "nest": {
+              "target": "Package",
+              "version": "[7.17.5, )"
             }
           },
           "imports": [

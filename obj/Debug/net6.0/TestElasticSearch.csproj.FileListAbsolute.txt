@@ -57,3 +57,4 @@ C:\Users\david\OneDrive\Documentos\Visual Studio Code\TestElasticSearch\bin\Debu
 C:\Users\david\OneDrive\Documentos\Visual Studio Code\TestElasticSearch\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\david\OneDrive\Documentos\Visual Studio Code\TestElasticSearch\bin\Debug\net6.0\System.Threading.Channels.dll
 C:\Users\david\OneDrive\Documentos\Visual Studio Code\TestElasticSearch\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\david\OneDrive\Documentos\Visual Studio Code\TestElasticSearch\bin\Debug\net6.0\Nest.dll

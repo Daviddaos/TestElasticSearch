@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9xAMzgO2JOTU3PiDifAbCk2tEKhfwCpnu6loTogFqpCwDNSyjVYiXUS9EhxaGfKBMjOqZb+lWrTC8cARjfBEXw==",
+  "dgSpecHash": "4YzZ8iuFCktAiggBv6pgghiBm9/l1lgbzUZ8O41/f0buGmQlD1vqC1hbkvqNm6X2cLFGiDA7RY3Rhfgevh2dOQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\david\\OneDrive\\Documentos\\Visual Studio Code\\TestElasticSearch\\TestElasticSearch.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\nest\\7.17.5\\nest.7.17.5.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\serilog.aspnetcore\\8.0.1\\serilog.aspnetcore.8.0.1.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\serilog.enrichers.environment\\2.3.0\\serilog.enrichers.environment.2.3.0.nupkg.sha512",
